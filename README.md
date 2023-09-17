@@ -1,0 +1,1 @@
+This is a To-Do List application developed using Next.js and React. It provides a user-friendly interface for task management. Users can add tasks to the list and delete them when completed. The application uses React Hooks for state management and Next.js for its robust development environment. The design is simple and intuitive, facilitating easy task management.
